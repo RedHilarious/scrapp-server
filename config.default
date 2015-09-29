@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+
+# DB-Settings
+DATABASE = ""
+HOST = ""
+PORT = "5432"
+USER = ""
+PASSWORD = ""
+
+# Server-Settings
+SERVER_URL = "0.0.0.0"
+SERVER_PORT = 5000
+LOGFILE_PATH = "path/to/logfile.log"
+
+# GCM-Settings
+GCM_API_KEY = "your-gcm-key"
